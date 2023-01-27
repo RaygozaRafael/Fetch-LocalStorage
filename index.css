@@ -1,0 +1,17 @@
+.min-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li{
+    list-style: none;
+}
+
+.round{
+    border-radius: 50%;
+}
+
+input{
+    text-align: center;
+}
